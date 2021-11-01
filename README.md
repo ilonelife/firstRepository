@@ -3,7 +3,7 @@
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](github.jpeg)](https://travis-ci.org/joemccann/dillinger)
 
 나는 앱을 개발하자
 

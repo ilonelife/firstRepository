@@ -8,7 +8,7 @@
 
 ![image] (github.jpeg)
 
-내 블로그  [Google](https://google.com, "google link")
+내 블로그  [velog](https://velog.io/@iloneslife, "velog")
 
 * 이메일링크: <jasony1@naver.com>
 

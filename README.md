@@ -8,7 +8,9 @@
 
 ![image] (github.jpeg)
 
-내 블로그
+내 블로그  [Google](https://google.com, "google link")
+
+* 이메일링크: <jasony1@naver.com>
 
 1. 내가 배운 기술들
 ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)

@@ -1,6 +1,11 @@
 개인 프로필
-이름 혹은 닉네임
-이메일 주소
+==========
+이일원
+——————-
+내 홈페이지: Link: [Google][googlelink]
+
+[googlelink]: https://velog.io/@iloneslife“내 블로그”
+
 내 블로그
 
 1. 내가 배운 기술들
